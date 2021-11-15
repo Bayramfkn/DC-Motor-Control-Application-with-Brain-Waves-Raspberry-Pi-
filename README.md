@@ -1,4 +1,5 @@
 # Beyin-Dalgalar-ile-Motor-Kontrol-Kodu(Raspberry Pi)
+
 import time
 from mindwavemobile.MindwaveDataPoints import RawDataPoint
 from mindwavemobile.MindwaveDataPointReader import MindwaveDataPointReader
@@ -112,3 +113,6 @@ if __name__ == '__main__':
             to the Mindwave Mobile device.""").replace("\n", " ")))
         ea.stop() 
         eb.stop()
+        
+
+
