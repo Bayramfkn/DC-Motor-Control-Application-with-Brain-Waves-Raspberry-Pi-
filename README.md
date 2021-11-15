@@ -1,1 +1,1 @@
-# Beyin-Dalgalar-ile-Kontrol-Edilebilir-Motor-kodu
+# Beyin-Dalgalar-ile-Motor-Kontrol-Kodu
