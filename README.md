@@ -1,0 +1,1 @@
+# Beyin-Dalgalar-ile-Kontrol-Edilebilir-Motor-kodu
