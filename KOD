@@ -1,4 +1,4 @@
-
+// Mindwave Mobileden alınan veriler ile dc motorların kontrolu
 import time
 from mindwavemobile.MindwaveDataPoints import RawDataPoint
 from mindwavemobile.MindwaveDataPointReader import MindwaveDataPointReader
